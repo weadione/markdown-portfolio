@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. CPP
+2. C
+3. Python
+    1. libarary
+    2. something
